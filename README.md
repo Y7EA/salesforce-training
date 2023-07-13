@@ -21,7 +21,7 @@ Feel free to explore these resources to complement your training and deepen your
 ## Folder Structure
 To keep our learning materials organized, we will follow a consistent folder structure in this repository. Each day will have its file, where we will document what we've learned and share our code snippets.
 
-- [**Day 1**]()
+- [**Day 1**](https://github.com/Y7EA/salesforce-training/blob/main/Day1.md)
 - [**Day 2**]()
 - [**Day 3**]()
 - ...
